@@ -8,16 +8,17 @@ text-rendering: optimizeLegibility;
 -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
 -moz-font-feature-settings: "liga" on;
+background-color: #efe9e5;
 }
 
 h1, h2, h3, h4, h5, h6, .nav, .footer {
 font-family: 'Vitesse', sans-serif;
-color: #ef39ef;
+color: #222;
 }
 
 .centered .content, .footer {
 text-align: center;
-color: #ef39ef;
+color: #222;
 }
 
 code {
