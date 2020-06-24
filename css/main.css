@@ -1,4 +1,4 @@
-* {
+{
   box-sizing: border-box;
 }
 
@@ -12,12 +12,12 @@ text-rendering: optimizeLegibility;
 
 h1, h2, h3, h4, h5, h6, .nav, .footer {
 font-family: 'Vitesse', sans-serif;
-color: #222;
+color: #ef39ef;
 }
 
 .centered .content, .footer {
 text-align: center;
-color: #222;
+color: #ef39ef;
 }
 
 code {
