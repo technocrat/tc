@@ -1,8 +1,6 @@
-* {
-  box-sizing: border-box;
-}
-
+html,
 body {
+  box-sizing: border-box;
 margin: 0;
 text-rendering: optimizeLegibility;
 -webkit-font-smoothing: antialiased;
@@ -24,11 +22,13 @@ background-color: #efe9e5;
 
 code {
   background-color: rgba(0, 0, 0, 0.02);
+  font-family: 'Operator Mono', mono;
 }
 
 .topnav {
   overflow: hidden;
   background-color: #333;
+  font-family: 'Vitesse', sans-serif;
 }
 
 .topnav a {
@@ -38,6 +38,7 @@ code {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: 'Vitesse', sans-serif;
 } 
 .footer {
   font-family: 'Vitesse', san-serif;
